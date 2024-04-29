@@ -1,6 +1,7 @@
 # Numerical-Methods
 A place to dump all of my numerical methods-related content.
 
+```bash
 Directory
 +---docs
     +---texts
@@ -10,3 +11,4 @@ Directory
     +---root_finding
 +---source
     +---matlab
+```
